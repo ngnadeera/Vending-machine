@@ -99,7 +99,7 @@ int main()
 			cin >> pay_two;
 			cout << "Number of $5 coins: ";
 			cin >> pay_five;
-			cout << "Number of $10 coins: ";
+			cout << "Number of $10 coins in 10s: hello";
 			cin >> pay_ten;
 			
 			temp_one += pay_one;
