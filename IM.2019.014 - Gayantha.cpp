@@ -91,7 +91,7 @@ int main()
 				lack = price-payment;
 				cout << "$" << lack << " is insufficient! Insert remaining amount of insert" << endl;
 			}
-			cout << "please make sure Only to enter $1 $2 $5 and $10 coins of conins" << endl;
+			cout << "please make sure Only to enter $1 $2 $5 and $10 coins of conins hello" << endl;
 			
 			cout << "Number of $1 coins: ";
 			cin >> pay_one;
@@ -99,7 +99,7 @@ int main()
 			cin >> pay_two;
 			cout << "Number of $5 coins: ";
 			cin >> pay_five;
-			cout << "Number of $10 coins in 10s: hello";
+			cout << "Number of $10 coins in 10s: ";
 			cin >> pay_ten;
 			
 			temp_one += pay_one;
