@@ -67,7 +67,7 @@ int main()
 				break;
 			case 3:
 				price=c;
-				cout << "Your price is $28" << endl;
+				cout << "Your price is $28 plese" << endl;
 				break;
 			case 4:
 				price=d;
