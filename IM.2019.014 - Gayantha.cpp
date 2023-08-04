@@ -63,7 +63,7 @@ int main()
 				break;
 			case 2:
 				price=b;
-				cout << "Your price is $25" << endl;
+				cout << "Your price is $25 " << endl;
 				break;
 			case 3:
 				price=c;
@@ -71,7 +71,7 @@ int main()
 				break;
 			case 4:
 				price=d;
-				cout << "Your price is $32" << endl;
+				cout << "Your price is $32 hello" << endl;
 				break;
 		}
 		cout << endl;
@@ -89,9 +89,9 @@ int main()
 			if (count!=0) 
 			{
 				lack = price-payment;
-				cout << "$" << lack << " is insufficient! Insert remaining amount" << endl;
+				cout << "$" << lack << " is insufficient! Insert remaining amount of insert" << endl;
 			}
-			cout << "please make sure Only to enter $1 $2 $5 and $10 coins " << endl;
+			cout << "please make sure Only to enter $1 $2 $5 and $10 coins of conins" << endl;
 			
 			cout << "Number of $1 coins: ";
 			cin >> pay_one;
